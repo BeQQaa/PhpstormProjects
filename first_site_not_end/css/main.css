@@ -1,0 +1,15 @@
+.footer {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #878787;
+    color: #878787;
+}
+
+#image_main {
+    margin-left: 40px;
+}
+
+#errorBlock {
+    display: none;
+}
