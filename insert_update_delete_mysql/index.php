@@ -7,7 +7,7 @@
 <body>
 <?php
 $user = 'admin';
-$password = '*Loksy6af3z13';
+$password = '*';
 $db = 'test_db';
 $host = 'localhost';
 
